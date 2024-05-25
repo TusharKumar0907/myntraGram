@@ -53,3 +53,12 @@ MongoDB Express React Redux NodeJs are user in this project.
 6.  Open  [localhost:3000](http://localhost:3000/)  in the browser.
 
  **And application will be up and running.**
+
+
+ **ScreenShots**
+
+ ![image](https://github.com/TusharKumar0907/myntraGram/assets/100371860/7f91ce54-eaa7-4bd4-bbb2-6ce8794741a2)
+
+ ![image](https://github.com/TusharKumar0907/myntraGram/assets/100371860/98984066-0943-477d-9926-327357720f5b)
+
+ ![image](https://github.com/TusharKumar0907/myntraGram/assets/100371860/2a741c2d-022c-4ecc-8624-7d0daa5e5572)
